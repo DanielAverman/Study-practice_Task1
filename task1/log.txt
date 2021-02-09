@@ -1,0 +1,11 @@
+commit 9238f26b2e8784907341fd15a75bd9a07339d2a6 (HEAD -> master)
+Author: Daniel Averman <danik17012000@mail.ru>
+Date:   Tue Feb 9 11:10:57 2021 +0300
+
+    add status.txt
+
+commit 8e166f7c05fa34cb1083ffb8441539ee3530e93b
+Author: Daniel Averman <danik17012000@mail.ru>
+Date:   Tue Feb 9 11:04:30 2021 +0300
+
+    add .gitignore
